@@ -1,0 +1,216 @@
+<resources>
+    <string name="app_name">TopTenVarsity</string>
+
+    <string-array name="Varsity_Name">
+        <item>DIU (Daffodil International University) </item>
+        <item>AIUB (American International University-Bangladesh) </item>
+        <item>NSU (North South University) </item>
+        <item>BRACU (Brac University) </item>
+        <item>AUST (Ahsanullah University of Science Technology) </item>
+        <item>EWU (East West University) </item>
+        <item>IUB (Independent University Of Bangladesh)</item>
+        <item>IUT (Islamic University of Technology) </item>
+        <item>UAP (University of Asia Pacific)</item>
+        <item>UIU (United International University)</item>
+        <item>ULAB (University of Liberal Arts Bangladesh) </item>
+
+
+    </string-array>
+
+    <string name="lebel">TopTenVarsity</string>
+
+
+    <string name="admin">
+        \n
+        \n
+        Developed By::-
+
+        \n
+        TANVIR HOSSEN BAPPY.
+        \n
+        Dept Of Computer Science and Engineering.
+        \n
+        Daffodil International University.
+        \n
+        Email: tanvir-7706@diu.edu.bd
+
+
+
+    </string>
+
+
+    <string name="welcome">I am trying to provide some information of Common Diseases For your Better Health</string>
+
+    <string name="Diu">
+    \n
+        Daffodil International University (DIU) is recognized in independent government assessments as one of top graded universities in Bangladesh. The university has been founded by Daffodil Group with the approval of the Ministry of Education under the Private University Act of 1992 and its amendment in 1998 and Daffodil International University came into being on 24th January 2002, the University today combines impressive modern facilities and a dynamic approach to teaching and research with its proud heritage of service and achievement. \n
+To be among the very best in Bangladesh which is the most challenging goal, has been set for the university. This has done so because it is only through working we can achieve the very highest level of standards in curriculum, teaching, faculties and other activities that can realize the full potential of the academic community that is Daffodil International University. The vision reflects the service to the society. The mission is to pursue research, learning and teaching of international distinction for the benefit of the nation.
+
+
+        Vice-Chancellor: Professor Dr. Yousuf Mahbubul Islam \n
+Location: 102 Mirpur Road, Dhaka – 1207  \n
+Admission: 3 times in a year(January, May and September)  \n
+Website: http://www.daffodilvarsity.edu.bd/  \n
+Inquiry: info@daffodilvarsity.edu.bd (Admission), +88-02-9138234  \n
+World Ranking: 3596  \n
+Ranking In Bangladesh: 12th   \n
+
+    </string>
+
+    <string name="aiub">
+        American International University Bangladesh is founded by Dr. Anwarul Abedin. As an independent organization, this university maintained by own board of trustees. Creating professionals and leader is the goal of this university. The quality education system, dedicated faculty member increases its fame.
+        \n
+        \n
+
+        Vice-Chancellor: Dr. Carmen Z. Lamagna \n
+Location: House 83/B, Road 4, Kemal Ataturk Avenue, Banani, Dhaka 1213 \n
+Admission: 3 times a year  \n
+Website: http://www.aiub.edu/ \n
+Inquiry: info@aiub.edu (Admission), +88-02-9894229, +88-02-9897387  \n
+World Ranking: 3884 \n
+Ranking In Bangladesh: 14th \n
+</string>
+
+    <string name="nsu">  North South University is the first private university of Bangladesh. Impressive modern facilities, awesome teaching method, huge campus with all facilities make North South University famous. Bangladesh government approved this university in 1992. In the year 1993, it started its journey.
+There are total 29 courses are available at this university. Graduate and undergraduate courses are available. This institution is maintained by the good board.
+        \n
+        \n
+        Vice-Chancellor: Professor Atiqul Islam \n
+Location: Plot # 15, Block # B, 1229, Dhaka \n
+Admission: 3 times in a year (January, May and September) \n
+Website: registrar@northsouth.edu \n
+Inquiry: +880-2-55668200  \n
+World Ranking: 3269  \n
+Ranking In Bangladesh: 11th \n
+
+    </string>
+    <string name="bu">
+       Brac University is the pioneer of a private university. This university established in 2001 to serve the quality education in Bangladesh. They are offering different courses of Science, Business Studies, and Humanities in Both undergraduate level and post-graduate level. Brac University has three semesters in January, May  September in year namely Spring, Summer,Fall.
+       \n
+        \n
+        Vice-Chancellor: Professor Dr Syed Saad Andaleeb \n
+Location: 66 Mohakhali , Dhaka 1212 \n
+Admission: 3 times in a year (January, May  September) \n
+Website: www.bracu.ac.bd \n
+Inquiry: admissionsbracu.ac.bd (Admission), 880-2-9844051-4 \n
+World Ranking:2635 \n
+Ranking In Bangladesh:4th \n
+
+
+
+    </string>
+    <string name="ewu">
+\n
+        To provide quality education with some prominent students, professionals and businessman have started this institution in 1996. With their innovative, Progoti foundation has been formed. With the help of this foundation, EWU has been formed. This university first started with 6 Faculty member in 1996. In course of time, EWD has now more than 200 Faculty members.
+Every year they try to increase the different facilities of education. Dynamic teaching method and other facilities are available there.
+  \n
+        \n
+
+        Vice-Chancellor: Professor Mohammed Sharif \n
+Location: A/2, 1212 Aftabnagar Main Road, Dhaka 1000-1200 \n
+Admission: 3 times in a year (January, May and September) \n
+Website: http://www.ewubd.edu/  \n
+Inquiry: 02-8811381 \n
+World Ranking: 5089 \n
+Ranking In Bangladesh: 27th \n
+
+    </string>
+    <string name="iub">
+          IUB is one of the oldest universities in Bangladesh. This university was established in 1993. This university follows the North American Curriculum. Most of the faculties of members of this university have done PhD from North America. This university maintains entire six academic schools and twelve research centers.
+To encourage the students, this university provides different types of scholarships and Weaver program. \n
+
+   Vice-Chancellor: Professor M. Omar Rahman  \n
+Location: Plot 16 Block B, Aftabuddin Ahmed Road, 1229,, Dhaka   \n
+Admission: 3 times in a year (January, May  September)  \n
+Website: http://www.iub.edu.bd/   \n
+Inquiry:info@iub.edu.bd, +88-02-8431645-53,   \n
+World Ranking: 3060   \n
+Ranking In Bangladesh: 9th   \n
+    </string>
+
+    <string name="iut">
+       The Islamic University of Technology is a subsidiary organ of Organization of Islamic Cooperation (OIC). The main goal of this institution is to provide enough support to enriched human resources in OIC states. Students of IUT gets 100% free scholarship. OIC provides funds for this.
+Late President Ziaur Rahman inaugurated Islamic Centre for Technical and Vocational Training and Research in the year 1981. It starts its journey in 1982. In the year 2000, it turned into IUT.
+        \n
+        \n
+        Vice-Chancellor: Prof. Dr. Munaz Ahmed Noor \n
+Location:102 Mirpur Road, Dhaka – 1207 \n
+Admission: One time in a year \n
+Website: http://www.iutoic-dhaka.edu/ \n
+Inquiry: +880 2 9291254-59 \n
+World Ranking: 5095 \n
+Ranking In Bangladesh: 28th \n
+
+    </string>
+
+
+    <string name="uap">
+
+        University of Asia Pacific (UAP) was established in 1996. It is the best university for Pharmaceutical Sciences  Engineering Departments in Bangladesh
+Vision UAP holds steadfastly its passion to do better and better in fulfilling our young generations needs and aspirations for a caring and quality education in casting their future career and become a desirable destination for an identity. Mission UAP mission is to offer best possible education to our young generation. Towards the mission, UAP continues to develop a sustained culture of ascending to a top-tier of vibrant academic environment.
+    \n
+        \n
+        Vice-Chancellor: Professor Jamilur Reza Choudhury \n
+Location: 74/A, Green Road, Farmgate, Dhaka - 1215
+, Bangladesh \n
+Admission: 2 times in a year (January  and July) \n
+Website: http://www.uap.ac.bd/   \n
+Inquiry:info@uap.ac.bd, +88(02) 9125913-6   \n
+World Ranking: 3629   \n
+Ranking In Bangladesh: 23th  \n
+
+    </string>
+
+
+
+    <string name="uiu">
+\n
+      United International University is another top-ranked private university of Bangladesh. Huge two premises in Dhanmondi with 80000 sq. feet floor space enhance its beauty. IT labs with many of computer and internet facilities attract all. To turn their graduate international standard, UIU provides necessary facilities to their students. They also provide joined degree program with USA, UK, Canadian and Australian universities.
+        \n
+        \n
+        Vice-Chancellor: Professor Dr. M. Rezwan Khan \n
+Location: House No. 80, Satmasjid Road, Dhaka 1209 \n
+Admission: 3 times in a year (January, May and September) \n
+Website: http://www.uiu.ac.bd/   \n
+Inquiry:info@uiu.ac.bd, +88(02) 9125913-6   \n
+World Ranking: 4400   \n
+Ranking In Bangladesh: 17th  \n
+
+
+
+    </string>
+
+    <string name="ulab">
+  ULAB is short for University of Liberal Arts Bangladesh. It is located in Dhanmondi, Dhaka. ULAB is famous for its media and journalism department. Students who live in old Dhaka or Dhanmondi choose ULAB because of the traveling hassle. ULAB provides a good scholarship. ULAB is doing way better than it used to do three years back.
+\n
+University of Liberal Arts, Bangladesh – A reputed private university of Bangladesh started its journey in 2002. ULAB is the only private university in Bangladesh that provides education based on the concept of liberal arts. After successfully providing tertiary education for more than a decade, the authority of the university wanted to contemplate and re-formulate its operational strategy and to chalk out next course of action based on the opinions of its most important stakeholder – The potential students and actors involved in decision making of their future education through a survey.
+        \n
+         Vice-Chancellor: H.M. Jahirul Haqu  \n
+Location: Dhanmondi, Dhaka-1208 \n
+Admission: 3 times a year \n
+Website:http://www.ulab.edu
+Inquiry: info@ulab.edu, +(8802) 8870422,  \n
+World Ranking: 4790  \n
+Ranking In Bangladesh: 32nd  \n
+
+
+    </string>
+
+    <string name="aust">
+\n
+        AUST is founded by the Dhaka Ahsania Mission. This is a nonprofit Voluntary organization. AUST is named by name of Educationalist Hazrat Khan Bahadur Ahsanullah (R). Developing Skills in the field of Science and Technology is the main mission of this university.
+        \n
+        \n
+        Vice-Chancellor: Prof. Dr. A. M. M. Safiullah  \n
+Location: 141 and 142, Love Road, Tejgaon Industrial Area, Dhaka-1208 \n
+Admission: 3 times a year \n
+Website:http://www.aust.edu
+Inquiry: info@aust.edu, +(8802) 8870422,  \n
+World Ranking: 4734  \n
+Ranking In Bangladesh: 23rd  \n
+
+
+
+    </string>
+
+</resources>
